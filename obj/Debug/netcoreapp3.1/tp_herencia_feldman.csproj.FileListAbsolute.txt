@@ -1,0 +1,13 @@
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.exe
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.deps.json
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.runtimeconfig.json
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.runtimeconfig.dev.json
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.dll
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\bin\Debug\netcoreapp3.1\tp_herencia_feldman.pdb
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.csprojAssemblyReference.cache
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.AssemblyInfo.cs
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.dll
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.pdb
+C:\Users\Camila\Desktop\Colegio-cuarentena\Lenguajes\tp doloroso\tp_herencia_feldman\obj\Debug\netcoreapp3.1\tp_herencia_feldman.genruntimeconfig.cache
